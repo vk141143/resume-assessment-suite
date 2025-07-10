@@ -99,7 +99,7 @@ export const JobRequirements = ({ onRequirementsSet, requirements }: JobRequirem
         setExperience('4-7 years');
         setEducation('Bachelor\'s degree in Computer Science or related field');
         setCertifications(['AWS Certified Developer', 'Google Cloud Certified']);
-        setLocation('Any';
+        setLocation('Any');
         setWorkType('Remote/Hybrid');
         break;
     }
